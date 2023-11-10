@@ -1,1 +1,1 @@
-# express-mysql-sandbo
+# express-mysql-sandbox
